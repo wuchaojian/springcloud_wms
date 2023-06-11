@@ -1,0 +1,13 @@
+server:
+  port: 8802
+spring:
+  data:
+    mongodb:
+      uri: mongodb://47.120.3.92:27017/springcloud
+  application:
+    name: springcloud-provider-login2
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 47.120.3.92:8848
+

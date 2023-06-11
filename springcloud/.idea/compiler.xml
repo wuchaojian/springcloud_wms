@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-provider-record-8804" />
+        <module name="mongostart" />
+        <module name="springcloud-consumer-dept-80" />
+        <module name="springcloud-provider-8801" />
+        <module name="springcloud-api" />
+        <module name="springcloud-provider-type-8803" />
+        <module name="springcloud-provider-login-8802" />
+        <module name="springcloud-consumer-8090" />
+        <module name="MongoDBTest" />
+        <module name="springcloud-eureka-7001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="MongoDBTest" target="1.8" />
+      <module name="mongostart" target="1.8" />
+      <module name="springcloud" target="1.8" />
+      <module name="springcloud-api" target="1.8" />
+      <module name="springcloud-consumer-8090" target="1.8" />
+      <module name="springcloud-consumer-dept-80" target="1.8" />
+      <module name="springcloud-eureka-7001" target="1.8" />
+      <module name="springcloud-provider-8801" target="1.8" />
+      <module name="springcloud-provider-login-8802" target="1.8" />
+      <module name="springcloud-provider-record-8804" target="1.8" />
+      <module name="springcloud-provider-type-8803" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mongostart" options="-parameters" />
+    </option>
+  </component>
+</project>

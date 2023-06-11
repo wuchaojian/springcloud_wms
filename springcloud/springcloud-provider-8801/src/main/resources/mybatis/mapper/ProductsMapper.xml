@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.springcloud.mapper.ProductsMapper">
+    <select id="pageCC" resultType="com.springcloud.api.Products">
+        select * from products ${ ew.customSqlSegment}
+    </select>
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.springcloud.api.Products">
+        <id column="pId" property="pid" />
+        <result column="pName" property="pname" />
+        <result column="pType" property="ptype" />
+        <result column="pWarehouse" property="pwarehouse" />
+        <result column="pManage" property="pmanage" />
+        <result column="pCount" property="pcount" />
+        <result column="pUnit" property="punit" />
+        <result column="pTime" property="ptime" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        pId, pName, pType, pWarehouse, pManage, pCount, pUnit, pTime
+    </sql>
+
+</mapper>

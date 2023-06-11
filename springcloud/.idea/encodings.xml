@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MongoDBTest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MongoDBTest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mongostart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-8090/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-8090/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-dept-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-dept-80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-eureka-7001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-eureka-7001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-8801/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-8801/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-login-8802/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-login-8802/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-record-8804/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-record-8804/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-type-8803/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-type-8803/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

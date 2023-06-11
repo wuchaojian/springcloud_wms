@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MongoDBTest/MongoDBTest.iml" filepath="$PROJECT_DIR$/MongoDBTest/MongoDBTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongostart/mongostart.iml" filepath="$PROJECT_DIR$/mongostart/mongostart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-api/springcloud-api.iml" filepath="$PROJECT_DIR$/springcloud-api/springcloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-8090/springcloud-consumer-8090.iml" filepath="$PROJECT_DIR$/springcloud-consumer-8090/springcloud-consumer-8090.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-dept-80/springcloud-consumer-dept-80.iml" filepath="$PROJECT_DIR$/springcloud-consumer-dept-80/springcloud-consumer-dept-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-7001/springcloud-eureka-7001.iml" filepath="$PROJECT_DIR$/springcloud-eureka-7001/springcloud-eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider-8801/springcloud-provider-8801.iml" filepath="$PROJECT_DIR$/springcloud-provider-8801/springcloud-provider-8801.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider-login-8802/springcloud-provider-login-8802.iml" filepath="$PROJECT_DIR$/springcloud-provider-login-8802/springcloud-provider-login-8802.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider-record-8804/springcloud-provider-record-8804.iml" filepath="$PROJECT_DIR$/springcloud-provider-record-8804/springcloud-provider-record-8804.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider-type-8803/springcloud-provider-type-8803.iml" filepath="$PROJECT_DIR$/springcloud-provider-type-8803/springcloud-provider-type-8803.iml" />
+    </modules>
+  </component>
+</project>
