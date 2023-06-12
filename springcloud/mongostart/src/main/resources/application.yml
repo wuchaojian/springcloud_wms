@@ -1,7 +1,0 @@
-server:
-  port: 80
-spring:
-  data:
-    mongodb:
-      uri: mongodb://47.120.3.92:27017/springcloud
-
